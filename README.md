@@ -2,7 +2,9 @@
 <div align="center">
   <a href="https://github.com/Spidey1618">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spidey1618&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <!-- Languages Count
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey1618&layout=compact&langs_count=7&theme=github_dark"/>
+   -->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
